@@ -1,0 +1,6 @@
+flask
+flask-cors
+langchain==0.1.14
+langchain-community==0.0.30
+chromadb
+huggingface-hub
